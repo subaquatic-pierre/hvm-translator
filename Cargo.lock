@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "vm-translator"
+name = "hvm-translator"
 version = "0.1.0"
